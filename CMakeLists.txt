@@ -43,7 +43,7 @@ endif()
 # Look for dependencies
 find_package(Qt6 REQUIRED COMPONENTS Widgets OpenGLWidgets)
 
-find_package(OpenSceneGraph REQUIRED COMPONENTS osgViewer osgGA)
+find_package(OpenSceneGraph REQUIRED COMPONENTS osgViewer osgGA osgUtil)
 
 find_package(Eigen3 REQUIRED)
 
