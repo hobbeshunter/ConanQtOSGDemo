@@ -1,7 +1,5 @@
 #include "PointFactory.h"
 
-#include <thread>
-
 namespace ConanQTOSGDemo {
 
 PointFactory::~PointFactory() {

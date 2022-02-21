@@ -7,10 +7,7 @@
 #include <condition_variable>
 #include <mutex>
 #include <memory>
-
-namespace std {
-class thread;
-}
+#include <thread>
 
 namespace ConanQTOSGDemo {
 
